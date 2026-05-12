@@ -196,7 +196,7 @@ This helped identify:
 # 👨‍💻 Author
 
 Aman Yadav
-BTech-MTech Student
+(BTech-MTech Student)
 
 ---
 
