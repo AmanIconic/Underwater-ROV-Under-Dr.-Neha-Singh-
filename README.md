@@ -195,10 +195,9 @@ This helped identify:
 
 # 👨‍💻 Author
 
-Aman Yadav
-(BTech-MTech Student)
+Aman Yadav,
 Devansh Kumar Yaduvanshi
-(BTech-MTech Student)
+
 
 ---
 
